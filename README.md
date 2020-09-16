@@ -14,6 +14,16 @@
 - Sou grande fã da Nintendo e tento ter todos os jogos do pokemon na coleção
 - Fiz dois anos de Ciências Contábeis antes de migrar para a TI
 
+
+### Github Status
+![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark)
+
+<details><summary><b>Linguagens</b></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobcunha&layout=compact&hide=ruby&theme=dark)
+  
+</details>
+
 :us:
 
 ## HI, I'm Diego!
@@ -30,3 +40,12 @@
 - Bass player at free time
 - Nintendo Biggest Fan and trying to have all pokemons game
 - Did two years of Account College before migrate to TI
+
+### Github Status
+![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark)
+
+<details><summary><b>Languages</b></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobcunha&layout=compact&hide=ruby&theme=dark)
+  
+</details>
