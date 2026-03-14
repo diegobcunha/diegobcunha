@@ -1,18 +1,17 @@
 :brazil:
 ## Oi,eu sou o Diego!
 
-- Desenvolvedor Android no [Mercado Pago](https://www.mercadopago.com.br/)
-- Todo dia tentando aprender algo do Android para levar para o time ou para projetos pessoais
+- Desenvolvedor Android com 10 anos de experiência em soluções Android com diferentes arquiteturas (MVVM, MVI, MVP).
+- Experiência em gestão de equipes a nivel tecnico buscando desenho de soluções de larga escala e de grande impacto
 - Acredito que somente educação é capaz de mudar o mundo
 - Pronomes: Ele/Dele
-- Evangelista de Clean Code/Architecture
+- Evangelista de Clean Code/Architecture e boas práticas de desenvolvimento
 
 ### Fatos curiosos
 
-- Sou pai de um Shitzu com nome de Pegasus (ou pequeno monstro quando ele faz coisas loucas como comer cabos)
+- Pai de 2 cachorros e um bebe.
 - Evangelista de Nintendo Switch
 - Barista nas horas vagas
-- Jogador de futebol de mesa.
 
 
 ### Github Status
@@ -28,18 +27,17 @@
 
 ## HI, I'm Diego!
 
-- Android Developer at [Warren](https://www.warren.com.br)
-- Everyday trying to learn something new about Android to bring to my team or personal projects
+- Android Developer with more than 10 years of experience in Android solutions with different architectures (MVVM, MVI, MVP)
+- Experience in technical management searching for solutions at large scale and huge impact.
 - Believer in Education as the root to resolve the world's problem
 - Pronouns: He/Him
-- Clean Code/Architecture evangelist
+- Clean Code/Architecture evangelist and good practices of development
 
 ### Fun facts
 
-- I'm a dad of Shitzu called Pegassus (or little monster when he does crazy stuffs like eat cables)
+- Father of 2 dogs and a one year old baby.
 - Nintendo Switch Cult Leader
 - Coffemaker at free time
-- I play soccer table
 
 ### Github Status
 ![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark)
