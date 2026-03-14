@@ -14,10 +14,10 @@
 - Barista nas horas vagas
 
 
-### Github Status
-![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark)
+<!-- ### Github Status -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark) -->
 
-<details><summary><b>Linguagens</b></summary>
+### Linguagens
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobcunha&layout=compact&hide=ruby&theme=dark)
   
@@ -39,10 +39,10 @@
 - Nintendo Switch Cult Leader
 - Coffemaker at free time
 
-### Github Status
-![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark)
+<!-- ### Github Status
+![](https://github-readme-stats.vercel.app/api?username=diegobcunha&show_icons=true&hide=contribs&theme=dark) -->
 
-<details><summary><b>Languages</b></summary>
+### Languages
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobcunha&layout=compact&hide=ruby&theme=dark)
   
